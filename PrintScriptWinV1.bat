@@ -12,6 +12,7 @@ reg query HKEY_CURRENT_USER\Printers\Connections >> "%userprofile%\Desktop\insta
 )) >"%userprofile%\Desktop\PrinterNames.txt"
 DEL %userprofile%\Desktop\installedprinters.txt
 
+@echo off
 
 :: Updates/Installs papercut
 %SystemRoot%\explorer.exe \\srv-pc-print.adm.suffolk.edu\PCClient\win\client-local-install.exe
