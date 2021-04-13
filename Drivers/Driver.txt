@@ -1,0 +1,1 @@
+This folder contains drivers for specific models of printers. This should not be needed on full release, but some development versions (PrintScriptMacV0.1) may require it.
