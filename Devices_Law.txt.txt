@@ -1,0 +1,8 @@
+"This is a list of devices to be added by the script, simply add its name and it will be installed on run."
+"Its important to note that this .txt is intended for printers running on srv-pc-ls-print.adm.suffolk.edu"
+//
+Law6thFloorLab
+LawLibrary
+PRN_655_CL
+PRN_655_RICOH
+PRN-LAW-RESUME

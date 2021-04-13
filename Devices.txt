@@ -1,8 +1,9 @@
 "This is a list of devices to be added by the script, simply add its name and it will be installed on run"
-
+//
+//
+73T_5th_Floor_Lounge
 LibraryMain01
 LibraryMain02
 LibraryMain03_CL
 Sawyer5
 SawyerLab544
-73T_5th_Floor_Lounge
