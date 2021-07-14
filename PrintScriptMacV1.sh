@@ -6,5 +6,5 @@ $cat tail -n +5 Devices.txt | while read line; do #Reads Devices.txt and assigns
 	sleep .5
  	lpstat -a #This is used to list the current devices and make sure a printer is added
 done
-open -a smb://srv-pc-ls-print.adm.suffolk.edu/pcclient/mac/PCClient
+open -a smb://srv-pc-ls-print.adm.suffolk.edu/pcclient/mac/PCClient #This line is experimental, when papercut is it will be adjusted
 
