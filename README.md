@@ -8,4 +8,4 @@ The project is very simple upon completion both versions should:
  
  ## As of 4/4/21 The windows version is ready for pre-implementation testing and accomplishes all goals.
   
- ## As of 6/2/21 The MAC version is somewhat finished with printer installation functional, any version of MacOS Catalina and after does not support 32 bit applications.
+ ## As of 6/2/21 The MAC version is somewhat finished with printer installation functional. However printer checking has not yet been implemented. 
