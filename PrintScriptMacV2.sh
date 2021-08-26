@@ -11,5 +11,5 @@ for printer in "${Devices[@]}"
 	done
  	lpstat -a
 
-open -a smb://srv-pc-ls-print.adm.suffolk.edu/pcclient/mac/PCClient
+open -a smb://srv-pc-ls-print.adm.suffolk.edu/pcclient/mac/client-local-install.app
 
